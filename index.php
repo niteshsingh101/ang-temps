@@ -1,4 +1,4 @@
-<?php include("header.php");?>
+<?php include("include/header.php");?>
 <body ng-app="Myapp">
 <div id="art-main" ng-controller="Myctrl">
     <div class="cleared reset-box"></div>
